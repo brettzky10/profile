@@ -15,20 +15,20 @@ export const Stack = () => {
     <div className='container mx-auto space-y-10 columns-1 flex flex-col items-center pt-20'>
         
             <div className='space-x-10 lg:space-x-20 flex flex-row'>
-            <IconJavascript className="text-sky-700" width='50px' height='50px'/>
-            <IconReact className="text-sky-700" width='50px' height='50px'/>
-            <IconFlutter className="text-sky-700" width='50px' height='50px'/>
-            <IconNuxtjs className="text-sky-700" width='50px' height='50px'/>
-            <IconTypescript className="text-sky-700" width='50px' height='50px'/>
+            <IconJavascript className="text-[#73746f]" width='50px' height='50px'/>
+            <IconReact className="text-[#73746f]" width='50px' height='50px'/>
+            <IconFlutter className="text-[#73746f]" width='50px' height='50px'/>
+            <IconNuxtjs className="text-[#73746f]" width='50px' height='50px'/>
+            <IconTypescript className="text-[#73746f]" width='50px' height='50px'/>
             </div>
         
         
         <div className='space-x-10 lg:space-x-20 flex flex-row'>
-            <IconPrisma className="text-sky-700" width='50px' height='50px'/>
-            <IconPostgresql className="text-sky-700" width='50px' height='50px'/>
-            <IconPlanetscale className="text-sky-700" width='50px' height='50px'/>
-            <IconArduino className="text-sky-700" width='50px' height='50px'/>
-            <IconOpenai className="text-sky-700" width='50px' height='50px'/>
+            <IconPrisma className="text-[#73746f]" width='50px' height='50px'/>
+            <IconPostgresql className="text-[#73746f]" width='50px' height='50px'/>
+            <IconPlanetscale className="text-[#73746f]" width='50px' height='50px'/>
+            <IconArduino className="text-[#73746f]" width='50px' height='50px'/>
+            <IconOpenai className="text-[#73746f]" width='50px' height='50px'/>
         </div>
         
     </div>

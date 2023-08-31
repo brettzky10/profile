@@ -9,3 +9,5 @@ Background box and project cards from [Aceternity](https://www.aceternity.com/co
 
 Icons from [React SVG Icons](https://reactsvgicons.com/)
 
+UI Components from [Shad/cn](https://ui.shadcn.com/)
+

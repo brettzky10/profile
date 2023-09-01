@@ -18,13 +18,13 @@ const LandingPage = () => {
     <div className="absolute inset-0 w-full h-full bg-slate-900 z-20 [mask-image:radial-gradient(transparent,white)] pointer-events-none" />
 
       <HeroBoxes />
-      <div className='z-30 shadow-xl'>
+      <div className='z-30 shadow-xl pt-10'>
         <Avatar>
           <AvatarImage src="/avatar-1.png" sizes='lg'/>
           <AvatarFallback>BL</AvatarFallback>
         </Avatar>
       </div>
-      <h1 className='text-[#73746f] font-bold text-6xl py-10 z-30'>Brett Linseman</h1>
+      <h1 className='text-[#73746f] font-bold text-6xl py-10 z-30 text-center'>Brett Linseman</h1>
       <p className="text-center mt-2 text-[#73746f] relative z-20">
         Making magical experiences, one code snippet at a time...
       </p>

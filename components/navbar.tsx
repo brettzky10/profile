@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="relative h-8 w-8 mr-4">
           <Image fill alt="Logo" src="/letter-b.png" />
         </div>
-        <h1 className={cn("text-2xl font-bold text-slate-900", font.className)}>
+        <h1 className={cn("text-xl font-bold text-slate-900", font.className)}>
           Brett Linseman
         </h1>
       </Link>

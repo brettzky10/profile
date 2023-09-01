@@ -17,7 +17,7 @@ const FilmPage = () => {
         
         <div className="container mx-auto text-center pt-20">
             
-            <div className="flex flex-row justify-center p-5 w-[400px] md:w-1/2 bg-gradient-to-br from-slate-600 to-slate-800 rounded-xl shadow-lg">
+            <div className="flex flex-row justify-center p-5 w-[350px] md:w-1/2 bg-gradient-to-br from-slate-600 to-slate-800 rounded-xl shadow-lg">
                 {/*
                 <div>
                     <Image
@@ -46,7 +46,7 @@ const FilmPage = () => {
                 </div>
             </div>
             <div>
-                <h1 className="text-3xl font-semibold text-white py-10">Worked as an operator <span className="font-black text-[#73746f]">75</span> productions including:</h1>
+                <h1 className="text-3xl font-semibold text-white py-10">Worked as an operator on over<span className="font-black text-[#73746f]">75</span> productions including:</h1>
             </div>
             <div className="pb-20 ">
                 <Posters/>

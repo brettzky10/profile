@@ -10,13 +10,13 @@ const ContactPage = () => {
                 <p>Feel free to email me with any questions</p>
                 <div className='flex flex-row text-left space-x-2'>
                     <Mail/>
-                    <p className='font-semibold'>Email: </p>
-                    <p className='font-light'>Brett.Linseman@gmail.com</p>
+                    <p className='font-semibold text-sm'>Email: </p>
+                    <p className='font-light text-sm'>Brett.Linseman@gmail.com</p>
                 </div>
                 <div className='flex flex-row text-left space-x-2'>
                     <MapPin/>
-                    <p className='font-semibold'>Location: </p>
-                    <p className='font-light'>Toronto Area, Canada</p>
+                    <p className='font-semibold text-sm'>Location: </p>
+                    <p className='font-light text-sm'>Toronto Area, Canada</p>
                 </div>
             </div>
         </div>

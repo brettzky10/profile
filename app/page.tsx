@@ -26,7 +26,7 @@ const LandingPage = () => {
       </div>
       <h1 className='text-[#73746f] font-bold text-6xl py-10 z-30 text-center'>Brett Linseman</h1>
       <p className="text-center mt-2 text-[#73746f] relative z-20">
-        Making magical experiences, one code snippet at a time...
+        Programmer, Union Camera Operator, Engineer...
       </p>
     </div>
       <div className='bg-gradient-to-b from-slate-900 from-40% via-slate-700 to-sky-700 to-90% h-[300px] w-full shadow-xl opacity-25 place-content-center'>

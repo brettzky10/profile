@@ -46,7 +46,7 @@ const FilmPage = () => {
                 </div>
             </div>
             <div>
-                <h1 className="text-3xl font-semibold text-white py-10">Worked as an operator on over<span className="font-black text-[#73746f]">75</span> productions including:</h1>
+                <h1 className="text-3xl font-semibold text-white py-10">Worked as an operator on over <span className="font-black text-[#73746f]">75</span> productions including:</h1>
             </div>
             <div className="pb-20 ">
                 <Posters/>

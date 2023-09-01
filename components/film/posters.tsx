@@ -3,9 +3,9 @@ import React from 'react'
 
 const Posters = () => {
   return (
-    <div className='grid grid-cols-2 md:grid-cols-6'>
+    <div className='grid grid-cols-2 md:grid-cols-6 space-y-2'>
         <Image
-            src={'/posters/it.jpg'}
+            src={'/posters/it2.jpg'}
             alt='It'
             height={300}
             width={100}

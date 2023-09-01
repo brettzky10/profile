@@ -20,7 +20,7 @@ const Navbar = () => {
       <div className="flex items-center gap-x-5">
         <Link href={"/film"}>
           <Button variant="ghost" className="text-slate-900 font-semibold">
-            Film Work
+            Film
           </Button>
         </Link>
         <Link href={"/contact"}>

@@ -62,7 +62,7 @@ export const experiencesData = [
     title: "Developer",
     location: "Drone Unit",
     description:
-      "For the last 3 years, Ive accumilated hundreds of hours on Udemy courses, and even more hours on youtube tutorials. I started with what I knew, C++ for Arduino, moved to Javascript, then to Flutter, Nuxt3 and now React/NextJS",
+      "For the last 3 years, Ive accumilated hundreds of hours on Udemy courses, youtube tutorials, and beginner courses in University. I started with what I knew, C++ for Arduino, moved to Javascript, then to Flutter, Nuxt3 and now React/NextJS",
     icon: React.createElement(FaReact),
     date: "2020 - present",
   },
@@ -83,15 +83,15 @@ export const projectsData = [
       "A website for an arcitectural brand that showcases parallax and other packages.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind"],
     imageUrl: archcompanyImg,
-    link: "https://architecture-company-3heg3jfvk-brettzky10.vercel.app/"
+    link: "https://architecture-company.vercel.app/"
   },
   {
     title: "AI Chat App",
     description:
-      "A AI chat app that allows users to talk in any language and receive chat in any language with an ai extension translating.",
+      "A chat app that allows users to talk in any language, and receive chat in any language, with an ai extension translating.",
     tags: ["React", "Next.js", "Stripe", "Tailwind", "Firebase"],
     imageUrl: chatappImg,
-    link: "https://github.com/brettzky10/chat-ai"
+    link: "https://chat-ai-beryl-six.vercel.app"
   },
 ] as const;
 

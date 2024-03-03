@@ -78,9 +78,9 @@ export const projectsData = [
     link: "https://outdoor-store-hjlx2igkf-brettzky10.vercel.app/"
   },
   {
-    title: "Arcitectural Website",
+    title: "Architectural Website",
     description:
-      "A website for an arcitectural brand that showcases parallax and other packages.",
+      "A website for an architectural brand.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind"],
     imageUrl: archcompanyImg,
     link: "https://architecture-company.vercel.app/"

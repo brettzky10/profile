@@ -1,6 +1,6 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
+import { FaReact, FaCamera } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import clothingstoreImg from "@/public/clothingstoreimg.png";
 import archcompanyImg from "@/public/archcompanyimg.png";
@@ -54,15 +54,15 @@ export const experiencesData = [
     title: "Drone Technician and Operator",
     location: "Drone Unit",
     description:
-      "More than 75 productions worked to date",
-    icon: React.createElement(FaReact),
+      "More than 75 productions worked to date including 'The Boys', 'Handmaid's Tale', 'See' and many more...",
+    icon: React.createElement(FaCamera),
     date: "2014 - present",
   },
   {
     title: "Developer",
     location: "Drone Unit",
     description:
-      "For the last 3 years, Ive accumilated hundreds of hours on Udemy courses, youtube tutorials, and beginner courses in University. I started with what I knew, C++ for Arduino, moved to Javascript, then to Flutter, Nuxt3 and now React/NextJS",
+      "For the last 3 years, building websites for clients using Javascript/Typescript, Flutter, Nuxt3 and React/NextJS while working in the Drone industry",
     icon: React.createElement(FaReact),
     date: "2020 - present",
   },

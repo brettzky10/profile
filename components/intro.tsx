@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/avatar-1.png"
+              src="/avatar-1.jpg"
               alt="Bretts portrait"
               width="192"
               height="192"
@@ -62,11 +62,9 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I am Brett.</span> I am a{" "}
-        <span className="font-bold">full-stack developer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js) and Flutter</span>.
+        <span className="font-medium">Hello, my name is Brett.</span> I am a{" "}
+        <span className="font-bold underline">full-stack React & Flutter developer</span> with{" "}
+        <span className="">3 years</span> of experience. I build web full stack web apps for clients, <span className="italic">but open to full-time positions</span>.
       </motion.h1>
 
       <motion.div

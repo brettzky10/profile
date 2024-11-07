@@ -19,17 +19,14 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        As of 2024, I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer. My core stack
-        is{" "}
+        My core stack is {" "}
         <span className="font-medium">
-          Next.js(React), Typescript and Prisma(mySQL, postgresql..)</span>
-        , but I am also familiar with Flutter, C++ and Nuxt/Vue.
+          Next.js(React)</span>
+          , Typescript, Prisma(SQL/Postgres) and Make.com.
       </p>
 
       <p>
-        <span className="italic">I am the fast learning, problem solving engineer that your team has been looking for.</span> {" "}
+        <span className="italic">See how much money I can save your business by automating away your bottlenecks.</span> {" "}
       </p>
     </motion.section>
   );

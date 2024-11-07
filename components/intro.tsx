@@ -63,8 +63,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-medium">Hello, my name is Brett.</span> I am a{" "}
-        <span className="font-bold underline">full-stack React & Flutter developer</span> with{" "}
-        <span className="">3 years</span> of experience. I build web full stack web apps for clients, <span className="italic">but open to full-time positions</span>.
+        <span className="font-bold underline">full-stack developer</span> that will build and automate your business needs.
       </motion.h1>
 
       <motion.div
@@ -87,14 +86,14 @@ export default function Intro() {
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
-        <a
+        {/* <a
           className="group bg-white px-7 py-3 flex items-center gap-4 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10"
           href="/Brett Linseman - Resume - 2023.pdf"
           download
         >
           Download CV{" "}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
-        </a>
+        </a> */}
           {/** 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer border border-black/10 dark:bg-white/10 dark:text-white/60"

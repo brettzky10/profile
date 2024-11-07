@@ -3,7 +3,9 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact, FaCamera } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import clothingstoreImg from "@/public/clothingstoreimg.png";
+import prophotowizardImg from "@/public/prophotowizard.png";
 import archcompanyImg from "@/public/archcompanyimg.png";
+import launchpotionImg from "@/public/launchpotion.png";
 import chatappImg from "@/public/chatappimg.png";
 
 export const links = [
@@ -56,13 +58,13 @@ export const experiencesData = [
     description:
       "More than 75 productions worked to date including 'The Boys', 'Handmaid's Tale', 'See' and many more...",
     icon: React.createElement(FaCamera),
-    date: "2014 - present",
+    date: "2014 - 2024",
   },
   {
     title: "Developer",
-    location: "Drone Unit",
+    location: "Launch Potion",
     description:
-      "For the last 3 years, building websites for clients using Javascript/Typescript, Flutter, Nuxt3 and React/NextJS while working in the Drone industry",
+      "Building fullstack apps and automating tasks for clients.",
     icon: React.createElement(FaReact),
     date: "2020 - present",
   },
@@ -70,20 +72,20 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Clothing Store",
+    title: "Pro Photo Wizard",
     description:
-      "A clothing store built mockup using Printful API to bring in real products",
-    tags: ["React", "Typescript", "Next.js", "Tailwind"],
-    imageUrl: clothingstoreImg,
-    link: "https://outdoor-store-hjlx2igkf-brettzky10.vercel.app/"
+      "Train a model using your face to create photos of yourself in any style.",
+    tags: ["Typescript", "Next.js", "React", "Tailwind", "Resend", "Supabase", "Stripe"],
+    imageUrl: prophotowizardImg,
+    link: "https://prophotowizard.com/"
   },
   {
-    title: "Architectural Website",
+    title: "Launch Potion",
     description:
-      "A website for an architectural brand.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind"],
-    imageUrl: archcompanyImg,
-    link: "https://architecture-company.vercel.app/"
+      "An agency that automates tasks such as lead generation, customer retention..etc. using Nextjs and Make.com.",
+    tags: ["TypeScript", "Next.js", "React", "Tailwind", "Stripe"],
+    imageUrl: launchpotionImg,
+    link: "https://LaunchPotion.com/"
   },
   {
     title: "AI Chat App",
@@ -112,4 +114,5 @@ export const skillsData = [
   "Planetscale",
   "PostgreSQL",
   "Framer Motion",
+  "Make.com,",
 ] as const;

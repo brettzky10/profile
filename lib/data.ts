@@ -76,7 +76,7 @@ export const projectsData = [
     description:
       "Turn photos of yourself into new locations and characters.",
     tags: ["Typescript", "Next.js", "React", "Tailwind", "Resend", "Supabase", "Stripe"],
-    imageUrl: "/prophotowizard.png",//prophotowizardImg,
+    imageUrl: "/prophotowizard2.png",//prophotowizardImg,
     link: "https://www.prophotowizard.com"
   },
   {
@@ -84,7 +84,7 @@ export const projectsData = [
     description:
       "An agency that delivers tailored automation-in-a-box packages to growth businesses.",
     tags: ["TypeScript", "Next.js", "React",  "Tailwind", "Stripe", "Make.com", "Zapier"],
-    imageUrl: "/launchpotion.png",
+    imageUrl: "/launchpotion2.png",
     link: "https://www.launchpotion.com"
   },
   /* {

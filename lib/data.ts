@@ -76,7 +76,7 @@ export const projectsData = [
     description:
       "Turn photos of yourself into new locations and characters.",
     tags: ["Typescript", "Next.js", "React", "Tailwind", "Resend", "Supabase", "Stripe"],
-    imageUrl: prophotowizardImg,
+    imageUrl: "/prophotowizard.png",//prophotowizardImg,
     link: "https://www.prophotowizard.com/"
   },
   {
@@ -84,24 +84,24 @@ export const projectsData = [
     description:
       "An agency that delivers tailored automation-in-a-box packages to growth businesses.",
     tags: ["TypeScript", "Next.js", "React",  "Tailwind", "Stripe", "Make.com", "Zapier"],
-    imageUrl: launchpotionImg,
+    imageUrl: "/launchpotion.png",
     link: "https://www.launchpotion.com/"
   },
-  {
+  /* {
     title: "Was Made Locally",
     description:
       "Local made goods toolbelt. Giving locals the tools to compete.",
     tags: ["TypeScript", "Next.js", "React", "Tailwind", "Stripe Connect", "Supabase"],
     imageUrl: launchpotionImg,
     link: "https://www.wasmadelocally.com/"
-  },
+  }, */
   {
     title: "Bearear",
     description:
       "A chat app that allows users to talk and receive chat using their preferred language...removing language barriers.",
     tags: ["React", "Next.js", "Stripe", "Tailwind", "Firebase"],
-    imageUrl: chatappImg,
-    link: "https://chat-ai-beryl-six.vercel.app"
+    imageUrl: "/bearear.png",//chatappImg,
+    link: "https://bearear.com"
   },
 ] as const;
 

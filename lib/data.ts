@@ -74,23 +74,31 @@ export const projectsData = [
   {
     title: "Pro Photo Wizard",
     description:
-      "Train a model using your face to create photos of yourself in any style.",
+      "Turn photos of yourself into new locations and characters.",
     tags: ["Typescript", "Next.js", "React", "Tailwind", "Resend", "Supabase", "Stripe"],
     imageUrl: prophotowizardImg,
-    link: "https://prophotowizard.com/"
+    link: "https://www.prophotowizard.com/"
   },
   {
     title: "Launch Potion",
     description:
-      "An agency that automates tasks such as lead generation, customer retention..etc. using Nextjs and Make.com.",
-    tags: ["TypeScript", "Next.js", "React", "Tailwind", "Stripe"],
+      "An agency that delivers tailored automation-in-a-box packages to growth businesses.",
+    tags: ["TypeScript", "Next.js", "React",  "Tailwind", "Stripe", "Make.com", "Zapier"],
     imageUrl: launchpotionImg,
-    link: "https://LaunchPotion.com/"
+    link: "https://www.launchpotion.com/"
   },
   {
-    title: "AI Chat App",
+    title: "Was Made Locally",
     description:
-      "A chat app that allows users to talk in any language, and receive chat in any language, with an ai extension translating.",
+      "Local made goods toolbelt. Giving locals the tools to compete.",
+    tags: ["TypeScript", "Next.js", "React", "Tailwind", "Stripe Connect", "Supabase"],
+    imageUrl: launchpotionImg,
+    link: "https://www.wasmadelocally.com/"
+  },
+  {
+    title: "Bearear",
+    description:
+      "A chat app that allows users to talk and receive chat using their preferred language...removing language barriers.",
     tags: ["React", "Next.js", "Stripe", "Tailwind", "Firebase"],
     imageUrl: chatappImg,
     link: "https://chat-ai-beryl-six.vercel.app"

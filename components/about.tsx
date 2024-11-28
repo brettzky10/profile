@@ -18,15 +18,10 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        My core stack is {" "}
-        <span className="font-medium">
-          Next.js(React)</span>
-          , Typescript, Prisma(SQL/Postgres) and Make.com.
-      </p>
+      
 
       <p>
-        <span className="italic">See how much money I can save your business by automating away your bottlenecks.</span> {" "}
+        <span className="italic">I automate ineffiencies in early stage businesses. I create webapps with Nextjs & Typescript, Flutter/dart for mobile, and arduinos to automate the physical world. I am a member of IATSE667 and have worked as part of the drone team on over 75 productions including Umbrella Academy, the Boys, and Handmaid&apos;s Tale. </span> {" "}
       </p>
     </motion.section>
   );

@@ -77,7 +77,7 @@ export const projectsData = [
       "Turn photos of yourself into new locations and characters.",
     tags: ["Typescript", "Next.js", "React", "Tailwind", "Resend", "Supabase", "Stripe"],
     imageUrl: "/prophotowizard.png",//prophotowizardImg,
-    link: "https://www.prophotowizard.com/"
+    link: "https://www.prophotowizard.com"
   },
   {
     title: "Launch Potion",
@@ -85,7 +85,7 @@ export const projectsData = [
       "An agency that delivers tailored automation-in-a-box packages to growth businesses.",
     tags: ["TypeScript", "Next.js", "React",  "Tailwind", "Stripe", "Make.com", "Zapier"],
     imageUrl: "/launchpotion.png",
-    link: "https://www.launchpotion.com/"
+    link: "https://www.launchpotion.com"
   },
   /* {
     title: "Was Made Locally",
